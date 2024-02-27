@@ -15,7 +15,7 @@ Q1. Which statement about GitHub Classroom is true?
 3. GitHub Classroom is a website that provides online courses to learn about GitHub.
 4. GitHub Classroom is developed by 3rd party developers but uses the GitHub API to integrate into GitHub.
 
-Answer: 4
+Answer: 2
 
 ------
 
@@ -26,7 +26,7 @@ Q2. What does the command `git add` do?
 3. Adds a file to the .git directory
 4. Adds a file to the working directory
 
-Answer: 4
+Answer: 3
 
 ------
 
@@ -37,7 +37,7 @@ Q3 . What Git commands can be used to correct mistakes?
 3. `git reset` and `git revert`
 4. `git revert` and `git remove`
 
-Answer: 4
+Answer: 1
 
 ------
 
